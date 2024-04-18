@@ -10,7 +10,7 @@ It maintains list of all available domain names in a text file.
 
 
 
-Modules needed : 
+Modules used : 
 
 pip install lxml
 
