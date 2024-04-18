@@ -13,7 +13,11 @@ It maintains list of all available domain names in a text file.
 Modules needed : 
 
 pip install lxml
+
 pip install lxml[html_clean]
+
 pip install validators
+
 pip install newspaper3k
+
 pip install python-whois
